@@ -1,0 +1,14 @@
+﻿01_hello_SDL.obj : error LNK2019: ссылка на неразрешенный внешний символ _SDL_GetError в функции _SDL_main.
+01_hello_SDL.obj : error LNK2019: ссылка на неразрешенный внешний символ _SDL_MapRGB в функции _SDL_main.
+01_hello_SDL.obj : error LNK2019: ссылка на неразрешенный внешний символ _SDL_FillRect в функции _SDL_main.
+01_hello_SDL.obj : error LNK2019: ссылка на неразрешенный внешний символ _SDL_CreateWindow в функции _SDL_main.
+01_hello_SDL.obj : error LNK2019: ссылка на неразрешенный внешний символ _SDL_GetWindowSurface в функции _SDL_main.
+01_hello_SDL.obj : error LNK2019: ссылка на неразрешенный внешний символ _SDL_UpdateWindowSurface в функции _SDL_main.
+01_hello_SDL.obj : error LNK2019: ссылка на неразрешенный внешний символ _SDL_DestroyWindow в функции _SDL_main.
+01_hello_SDL.obj : error LNK2019: ссылка на неразрешенный внешний символ _SDL_Delay в функции _SDL_main.
+01_hello_SDL.obj : error LNK2019: ссылка на неразрешенный внешний символ _SDL_Init в функции _SDL_main.
+01_hello_SDL.obj : error LNK2019: ссылка на неразрешенный внешний символ _SDL_Quit в функции _SDL_main.
+MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ _main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ).
+E:\VC Lib\SDL2-2.0.12\lib\x64\SDL2.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+E:\VC Lib\SDL2-2.0.12\lib\x64\SDL2main.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+C:\Users\elect\Desktop\C++\sdl_test\Debug\sdl_test.exe : fatal error LNK1120: неразрешенных внешних элементов: 11
