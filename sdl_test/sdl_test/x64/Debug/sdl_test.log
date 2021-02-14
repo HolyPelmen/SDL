@@ -1,3 +1,85 @@
 ﻿  main.cpp
-C:\Users\elect\Desktop\C++\sdl_test\sdl_test\main.cpp(23,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  sdl_test.vcxproj -> C:\Users\elect\Desktop\C++\sdl_test\x64\Debug\sdl_test.exe
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(71,11): warning C4244: инициализация: преобразование "_Rep" в "int", возможна потеря данных
+          with
+          [
+              _Rep=__int64
+          ]
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(89,170): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(89,151): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(89,73): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(92,141): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(92,70): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(95,168): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(95,149): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(95,67): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(159,152): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(159,132): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(159,49): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(161,117): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(161,44): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(163,144): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(163,124): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(163,41): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(181,44): warning C4838: Преобразование из "double" в "int" требует сужающего преобразования.
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(181,44): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(181,64): warning C4838: Преобразование из "double" в "int" требует сужающего преобразования.
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(181,64): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(181,84): warning C4838: Преобразование из "double" в "int" требует сужающего преобразования.
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(181,84): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(181,124): warning C4838: Преобразование из "double" в "int" требует сужающего преобразования.
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(181,124): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(186,62): warning C4838: Преобразование из "double" в "int" требует сужающего преобразования.
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(186,62): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(190,51): warning C4838: Преобразование из "double" в "int" требует сужающего преобразования.
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(190,51): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(190,80): warning C4838: Преобразование из "double" в "int" требует сужающего преобразования.
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(190,80): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(194,69): warning C4838: Преобразование из "double" в "int" требует сужающего преобразования.
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(194,69): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(194,99): warning C4838: Преобразование из "double" в "int" требует сужающего преобразования.
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(194,99): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(205,182): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(205,160): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(205,90): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(209,189): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(209,167): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(209,97): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(213,191): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(213,169): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(213,99): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(217,192): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(217,170): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(217,100): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(221,97): warning C4838: Преобразование из "double" в "int" требует сужающего преобразования.
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(221,97): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(221,130): warning C4838: Преобразование из "double" в "int" требует сужающего преобразования.
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(221,130): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(226,53): warning C4838: Преобразование из "double" в "int" требует сужающего преобразования.
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(226,53): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(226,94): warning C4838: Преобразование из "double" в "int" требует сужающего преобразования.
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(226,94): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(226,107): warning C4838: Преобразование из "double" в "int" требует сужающего преобразования.
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(226,107): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(229,53): warning C4838: Преобразование из "double" в "int" требует сужающего преобразования.
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(229,53): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(229,124): warning C4838: Преобразование из "double" в "int" требует сужающего преобразования.
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(229,124): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(229,137): warning C4838: Преобразование из "double" в "int" требует сужающего преобразования.
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(229,137): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(321,165): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(321,130): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(325,166): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(325,131): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(377,165): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(377,130): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(381,166): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(381,131): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(441,164): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(441,129): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(445,165): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(445,130): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(537,166): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(537,131): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(541,167): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\C++\SDL\sdl_test\sdl_test\main.cpp(541,132): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  sdl_test.vcxproj -> D:\C++\SDL\sdl_test\x64\Debug\sdl_test.exe
